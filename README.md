@@ -25,7 +25,7 @@ Estoy dispuesto a aprender y desarrollar soluciones eficientes mientras aprovech
 ### Conéctate conmigo:
 
 - [LinkedIn](https://www.linkedin.com/in/juan-cruz-loker-boc-ho-b09167269/)
-- [Correo Electrónico] juanloker62@gmail.com
+- juanloker62@gmail.com
 - [WhatsApp](https://chat.whatsapp.com/IkvCNjvS7XDJzH4om2iyxX)
 
 Gracias por su tiempo! 👋
