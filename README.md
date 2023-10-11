@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hola, soy Juan Cruz Loker 👋
 
-<!--
-**Lokerrr/Lokerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador Web Full Stack 👨‍💻
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Soy Desarrollador Web Full Stack con experiencia en diversas tecnologías. Estoy en busca de desafíos y oportunidades para unirme a equipos interesantes. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías que domino:
+
+- JavaScript
+- React
+- Redux
+- Node.js
+- Express
+- GIT
+- PostgreSQL
+- Sequelize
+- HTML y CSS
+
+### Acerca de mí:
+
+Como profesional, me esfuerzo por ser aplicado, motivado, y me mantengo fiel a mis principios, con respeto y puntualidad. Si estás buscando a un desarrollador comprometido y disciplinado, hablemos.
+
+Estoy dispuesto a aprender y desarrollar soluciones eficientes mientras aprovecho el proceso. Si tienes un proyecto interesante o una oportunidad enriquecedora, no dudes en contactarme.
+
+### Conéctate conmigo:
+
+- [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/juan-cruz-loker-boc-ho-b09167269/))
+- [Correo Electrónico](juanloker62@gmail.com)
+- [Teléfono](+5493772634172)
+
+Gracias por su tiempo! 👋
